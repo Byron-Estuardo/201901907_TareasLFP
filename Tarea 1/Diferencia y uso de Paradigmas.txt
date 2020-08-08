@@ -1,0 +1,37 @@
+lenguajes de programacion imperativos y lenguajes de programacion declarativos
+
+Los paradigmas declarativos se dividen en:
+ -Paradigma de la programacion lógica 
+-El paradigma funcional
+-Programacion guiada por eventos
+-El paradigma del lenguaje de base de datos
+
+Y los paradigmas imperativos de dividen en:
+-El paradigma estructurado en bloques
+-El paradigma basado en objetos
+-Paradigma de la programacion distribuida
+
+La programacion declarativa se enfoca en la resolucion de problemas informaticos sin darle importancia a las instrucciones necesarias para ello, es decir a los pasos especificos a seguir.
+En cambio la programacion imperativa se enfoca en la descripcion de los pasos necesarios a seguir para la resolucion del problema, tomando muy en cuenta el orden de los pasos para asi maneter el fujo de ejecucion.
+
+En otras palabras, la programacion declarativa se basa en un conjunto de condiciones, propociones, restricciones, afirmaciones, etc que describen un problema o una tarea, mas no describen las instrucciones para la resolucion de dichos problemas o tareas.
+la programacion imperativa se basa mas que todo en codigo, sentencias. en el cual se explica a la computadora por medio de instrucciones detalladas como se debe resolver dicho problema o tarea.
+
+Ejemplo de programacion Imperativa:
+Programa de suma (Numeros del 1 al 100):
+
+int suma = 0;
+ for (int i = 1 to 100)
+    suma += i;
+ return suma;
+
+Este es un claro ejemplo de programacion imperativa, ya que se le indica a la computadora paso a paso lo que debe de realizar.
+
+Ejemplo de Programacion Declarativa:
+
+suma = Sum(1, 100)
+
+Aqui solo se declara que debe sumar los numeros del 1 al 100 más no se le indican cuales son los pasos que debe realizar.
+
+
+
