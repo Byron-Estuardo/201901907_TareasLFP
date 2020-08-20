@@ -1,0 +1,26 @@
+[
+    {
+      "Nombre": "Byron ",
+      "Edad": 19,
+      "Activo": true,
+      "Ingreso": 2019
+    },
+    {
+      "Nombre": "Yasmin",
+      "Edad": 21,
+      "Activo": true,
+      "Ingreso": 2016
+    },
+    {
+      "Nombre": "Billy",
+      "Edad": 20,
+      "Activo": true,
+      "Ingreso": 2019
+    },
+    {
+      "Nombre": "Ana",
+      "Edad": 19,
+      "Activo": true,
+      "Ingreso": 2019
+    }
+]
