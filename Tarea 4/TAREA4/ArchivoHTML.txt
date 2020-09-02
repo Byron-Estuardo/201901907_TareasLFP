@@ -1,0 +1,30 @@
+REGISTRO1
+nombre: Luis Fernando, edad: 25, activo: True, saldo: 85.6982
+
+REGISTRO2
+nombre: Billy Anderson, edad: 69, activo: False, saldo: 45.933
+
+REGISTRO3
+nombre: Byron Estuardo, edad: 20, activo: True, saldo: 70.056
+
+REGISTRO4
+nombre: Maria Jose, edad: 21, activo: False, saldo: 99.125
+
+REGISTRO5
+nombre: Dulce Hernandez, edad: 20, activo: True, saldo: 742.69
+
+REGISTRO6
+nombre: Cristian Jocol, edad: 23, activo: False, saldo: 96325
+
+REGISTRO7
+nombre: Joaquin Hernandez, edad: 20, activo: True, saldo: 20.3
+
+REGISTRO8
+nombre: Guillermo Caal, edad: 21, activo: False, saldo: 2000.0
+
+REGISTRO9
+nombre: Ana Lucia, edad: 20, activo: True, saldo: 69.365
+
+REGISTRO10
+nombre: Jose Ajcip, edad: 41, activo: False, saldo: 55.687
+

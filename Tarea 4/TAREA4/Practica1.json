@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Luis Fernando",
+        "edad": 25,
+        "activo": true,
+        "saldo": 85.6982
+    },
+    {
+        "nombre": "Billy Anderson",
+        "edad": 69,
+        "activo": false,
+        "saldo": 45.933
+    },
+    {
+        "nombre": "Byron Estuardo",
+        "edad": 20,
+        "activo": true,
+        "saldo": 70.056
+    },
+    {
+        "nombre": "Maria Jose",
+        "edad": 21,
+        "activo": false,
+        "saldo": 99.125
+    },
+    {
+        "nombre": "Dulce Hernandez",
+        "edad": 20,
+        "activo": true,
+        "saldo": 742.69
+    },
+    {
+        "nombre": "Cristian Jocol",
+        "edad": 23,
+        "activo": false,
+        "saldo": 96325
+    },
+    {
+        "nombre": "Joaquin Hernandez",
+        "edad": 20,
+        "activo": true,
+        "saldo": 20.30
+    },
+    {
+        "nombre": "Guillermo Caal",
+        "edad": 21,
+        "activo": false,
+        "saldo": 2000.00
+    },
+    {
+        "nombre": "Ana Lucia",
+        "edad": 20,
+        "activo": true,
+        "saldo": 69.365
+    },
+    {
+        "nombre": "Jose Ajcip",
+        "edad": 41,
+        "activo": false,
+        "saldo": 55.687
+    }
+]
