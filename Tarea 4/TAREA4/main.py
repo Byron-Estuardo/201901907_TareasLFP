@@ -51,7 +51,7 @@ def Run():
                                 </aside>
                                 <article class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                     <center><h1>Reporte de Registros</h1></center>
-                                    <center><iframe src="ArchivoHTML.txt" width="620"  style="border: solid;" title="REPORTE DE REGISTROS"></iframe></center>
+                                    <center><iframe src="ArchivoHTML.txt" width="620" height="485" style="border: solid;" title="REPORTE DE REGISTROS"></iframe></center>
                                 </article>
                                 <aside id="der" class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
                                 </aside>
